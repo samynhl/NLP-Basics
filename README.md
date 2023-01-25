@@ -1,4 +1,5 @@
 # Spam-Filtering-BOW
-Example of application of the bag-of-words model in a spam filtering task.
-
+Example of application of some basic NLP concepts :
+- BOW
+- WORD2VEC
 Copyrights : www.youtube.com/@ritvikmath
