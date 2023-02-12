@@ -1,0 +1,24 @@
+-- Latent Dirichlet Allocation
+______________________________
+
+- What is it : 
+A topic modelling technique that can classify text in a document to a particular
+topic.
+In other words, it's a technique used to map documents in a corpus to topics.
+
+- How does it work:
+Assumptions of LDA topic modelling:
+  - Documents with similar topics use similar groups of words
+  - Latent topics can then be found by searching for groups of 
+  words that frequently occur together in documents across the corpus
+  - Documents are probability distributions over latent topics which 
+  signifies certain document will contain more words of a specific topic.
+  - Topics themselves are probability distribution over words
+
+
+Important
+  - The users must decide on amount of topics present in the document
+  - the user must interpret what the topics are
+
+__________________________________
+https://medium.com/analytics-vidhya/latent-dirichelt-allocation-1ec8729589d4
